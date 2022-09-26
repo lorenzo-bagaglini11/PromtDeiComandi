@@ -1,1 +1,2 @@
 "# PromtDeiComandi" 
+print 'cinw'
